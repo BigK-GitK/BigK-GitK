@@ -99,6 +99,9 @@ $ cat /home/bigk/profile.json
   <img src="https://github-readme-stats.vercel.app/api?username=BigK-GitK&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigK-GitK&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="49%"/>
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BigK-GitK&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"/>
+</p>
 
 ---
 
